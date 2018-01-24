@@ -1,0 +1,8 @@
+{
+  "name": "losrodriguez",
+  "app_id": "dd313f23",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
